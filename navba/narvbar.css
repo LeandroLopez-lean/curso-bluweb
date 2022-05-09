@@ -1,0 +1,12 @@
+.nav-enlaces{
+    display: inline-block;
+    background: coral;
+    color: darkblue;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlaces:hover{
+    background: chocolate;
+}
+ nav{background-color: darkblue;
+padding: 10px;}

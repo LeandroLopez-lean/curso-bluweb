@@ -1,0 +1,29 @@
+h1{
+    color: blue; font-size: 30px;
+    margin: 10px 100PX 50px;  
+    background: #cbf029;
+    
+}
+
+  h2{
+      background: red;
+  }
+.blanco{
+ background-color: white;
+}
+ 
+ h2 {
+     background: cadetblue;
+}
+.margen{  margin: 20px 550PX 50px;  
+}
+.columna{
+    background:violet;
+    color: tomato;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+.padre{
+    display: inline-flex;
+}

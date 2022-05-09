@@ -1,0 +1,28 @@
+
+.list {
+  width: 100px;
+} 
+li {
+  margin-bottom: 10px;
+}
+#l {
+  border: 1px solid red;
+}
+#m {
+  border: 1px solid blue;
+}
+#mi {
+  border: 1px solid green;
+}
+#j {
+  border: 1px solid violet;
+}
+#v {
+    border: 1px solid crimson ;
+}
+#s{
+    border: 1px solid darkgoldenrod;
+}
+#d{ 
+    border: 1px solid chocolate;
+}
